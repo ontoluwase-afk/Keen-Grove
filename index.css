@@ -557,34 +557,24 @@ footer {
 }
 
 @media (max-width: 900px) {
+  .site-header {
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    padding-block: 12px;
+  }
+
   .site-header nav {
-    display: none;
+    order: 3;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 24px;
+    padding-top: 10px;
+    border-top: 1px solid #eee;
   }
 
-  .hero {
-    height: 500px;
-  }
-
-  .hero h1 {
-    font-size: 54px;
-  }
-
-  .product-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
-
-  .care-journal {
-    grid-template-columns: 1fr;
-    gap: 20px;
-    text-align: center;
-  }
-
-  .journal-number {
-    display: none;
-  }
-
-  .journal-copy {
-    margin: auto;
+  .site-header nav a {
+    font-size: 11px;
   }
 }
 
@@ -651,6 +641,11 @@ footer {
   .footer-meta p:last-child {
     margin-top: 20px;
     text-align: center;
+  }
+
+  .site-header nav {
+  justify-content: space-between;
+  gap: 12px;
   }
 }
 
