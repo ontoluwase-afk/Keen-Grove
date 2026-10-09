@@ -34,7 +34,7 @@ const products = [
     material: 'Italian calf leather, leather sole',
     origin: 'Handmade in Italy',
     fit: 'True to size · 75 mm heel',
-    image: 'mule',
+    image: 'photo-1789110519446-77822570546e',
   },
   {
     id: 2,
