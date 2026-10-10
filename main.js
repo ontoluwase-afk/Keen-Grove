@@ -26,11 +26,11 @@ const careByCategory = {
 const products = [
   {
     id: 1,
-    name: 'Sculptural Heel Mule',
+    name: 'The Siena Suede Mule',
     brand: 'Maison Éclat',
     category: 'Shoes',
     price: '$485',
-    description: 'An architectural block heel in burnished leather.',
+    description: 'An architectural slim heel in burnished leather.',
     material: 'Italian calf leather, leather sole',
     origin: 'Handmade in Italy',
     fit: 'True to size · 75 mm heel',
@@ -38,11 +38,11 @@ const products = [
   },
   {
     id: 2,
-    name: 'Point-Toe Slingback',
+    name: 'Floratine Pump',
     brand: 'Atelier Voss',
     category: 'Shoes',
     price: '$360',
-    description: 'A precise slingback with a quiet gold buckle.',
+    description: 'Garden-inspired satin with a slim, sculptured heel',
     material: 'Kid leather, brushed brass hardware',
     origin: 'Made in Spain',
     fit: 'Narrow fit · 45 mm heel',
@@ -50,7 +50,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Strappy Sandal',
+    name: 'Feathered Ankle Sandal',
     brand: 'Lumière Studio',
     category: 'Shoes',
     price: '$295',
@@ -62,7 +62,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'Wide-Leg Wool Suit',
+    name: 'Relaxed Grey Suit',
     brand: 'Céline Blanche',
     category: 'Outfits',
     price: '$1,240',
@@ -74,7 +74,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Linen Co-ord Set',
+    name: 'Crimson Co-ord Set',
     brand: 'Terra & Form',
     category: 'Outfits',
     price: '$580',
@@ -87,7 +87,7 @@ const products = [
   },
   {
     id: 6,
-    name: 'Noir Evening Ensemble',
+    name: 'Cobalt Trouser suit',
     brand: 'Maison Éclat',
     category: 'Outfits',
     price: '$720',
@@ -135,11 +135,11 @@ const products = [
   },
   {
     id: 10,
-    name: 'Mini Frame Tote',
+    name: 'Silver mini handbag',
     brand: 'Céline Blanche',
     category: 'Bags',
     price: '$1,150',
-    description: 'A precise everyday tote with a framed profile.',
+    description: 'Sculpted ivory handbag with a graceful handle and softly curved profile',
     material: 'Grained calfskin, suede lining',
     origin: 'Handmade in Italy',
     fit: '22 × 17 × 9 cm · Detachable strap',
