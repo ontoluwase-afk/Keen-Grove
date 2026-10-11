@@ -234,7 +234,7 @@ root.innerHTML = `
     <footer id="about">
       <div class="footer-wordmark">Keen Grove</div>
       <div class="footer-meta">
-        <p>Independent fashion catalogue<br>London · Copenhagen</p>
+        <p>Independent fashion catalogue<br>Concept Project</p>
         <p>© 2026 Keen Grove<br>Made with consideration</p>
       </div>
     </footer>
