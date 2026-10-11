@@ -50,7 +50,7 @@ const products = [
   },
   {
     id: 3,
-    name: 'Feathered Ankle Sandal',
+    name: 'Celeste Feather Sandal',
     brand: 'Lumière Studio',
     category: 'Shoes',
     price: '$295',
@@ -62,7 +62,7 @@ const products = [
   },
   {
     id: 4,
-    name: 'Relaxed Grey Suit',
+    name: 'Ash Relaxed Suit',
     brand: 'Céline Blanche',
     category: 'Outfits',
     price: '$1,240',
@@ -74,7 +74,7 @@ const products = [
   },
   {
     id: 5,
-    name: 'Crimson Co-ord Set',
+    name: 'Carmine Co-ord',
     brand: 'Terra & Form',
     category: 'Outfits',
     price: '$580',
@@ -87,7 +87,7 @@ const products = [
   },
   {
     id: 6,
-    name: 'Cobalt Trouser suit',
+    name: 'Cobalt Tailored suit',
     brand: 'Maison Éclat',
     category: 'Outfits',
     price: '$720',
@@ -99,7 +99,7 @@ const products = [
   },
   {
     id: 7,
-    name: 'Bias-Cut Slip Dress',
+    name: 'Argent Strapless Dress',
     brand: 'Atelier Voss',
     category: 'Dresses',
     price: '$895',
@@ -111,7 +111,7 @@ const products = [
   },
   {
     id: 8,
-    name: 'Column Dress',
+    name: 'Rosaline Wrap Dress',
     brand: 'Lumière Studio',
     category: 'Dresses',
     price: '$660',
@@ -119,11 +119,11 @@ const products = [
     material: 'Cotton faille, cupro lining',
     origin: 'Made in Japan',
     fit: 'Fitted bodice · Straight skirt',
-    image: 'photo-1659522761084-79196b64abe4',
+    image: 'photo-1496747611176-843222e1e57c',
   },
   {
     id: 9,
-    name: 'Draped Day Dress',
+    name: 'Lumiere Sequin Mini',
     brand: 'Terra & Form',
     category: 'Dresses',
     price: '$740',
@@ -131,11 +131,11 @@ const products = [
     material: 'FSC-certified viscose crepe',
     origin: 'Made in Portugal',
     fit: 'Relaxed waist · Ankle length',
-    image: 'photo-1567777301743-3b7ef158aadf',
+    image: 'photo-1644557516421-4f9ed408259f',
   },
   {
     id: 10,
-    name: 'Silver mini handbag',
+    name: 'Elora Ivory bag',
     brand: 'Céline Blanche',
     category: 'Bags',
     price: '$1,150',
