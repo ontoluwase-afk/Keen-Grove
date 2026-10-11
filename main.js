@@ -147,7 +147,7 @@ const products = [
   },
   {
     id: 11,
-    name: 'Rounded Shoulder Bag',
+    name: 'Margot Satchel',
     brand: 'Maison Éclat',
     category: 'Bags',
     price: '$870',
@@ -159,7 +159,7 @@ const products = [
   },
   {
     id: 12,
-    name: 'Archive Day Bag',
+    name: 'Aster Backpack',
     brand: 'Atelier Voss',
     category: 'Bags',
     price: '$430',
